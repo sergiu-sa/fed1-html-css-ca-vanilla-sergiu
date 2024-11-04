@@ -23,7 +23,7 @@ You can update your deployment pipeling by editing the [vercel.json](https://ver
 
 ## Report
 
-[_ADD_YOUR_REPORT_HERE_](https://docs.google.com/document/d/1ChV_LeV6tLa2ltx8yMfUYFHUwh5lvYWUm7h_kiBY1Fc/edit?usp=sharing)
+[https://docs.google.com/document/d/1ChV_LeV6tLa2ltx8yMfUYFHUwh5lvYWUm7h_kiBY1Fc/edit?usp=sharing](https://docs.google.com/document/d/1ChV_LeV6tLa2ltx8yMfUYFHUwh5lvYWUm7h_kiBY1Fc/edit?usp=sharing)
 
 ## Getting Started
 
